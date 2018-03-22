@@ -1,0 +1,11 @@
+E:\IT\GitHub\Cuelogic\SOLID.Principles\4.InterfaceSegregationPrinciple\bin\Debug\4.InterfaceSegregationPrinciple.exe
+E:\IT\GitHub\Cuelogic\SOLID.Principles\4.InterfaceSegregationPrinciple\bin\Debug\4.InterfaceSegregationPrinciple.pdb
+E:\IT\GitHub\Cuelogic\SOLID.Principles\4.InterfaceSegregationPrinciple\obj\Debug\4.InterfaceSegregationPrinciple.exe
+E:\IT\GitHub\Cuelogic\SOLID.Principles\4.InterfaceSegregationPrinciple\obj\Debug\4.InterfaceSegregationPrinciple.pdb
+D:\WorkSpace\Net\SOLID.Principles\4.InterfaceSegregationPrinciple\obj\Debug\4.InterfaceSegregationPrinciple.exe
+D:\WorkSpace\Net\SOLID.Principles\4.InterfaceSegregationPrinciple\obj\Debug\4.InterfaceSegregationPrinciple.pdb
+D:\WorkSpace\Net\jenkins\server\4.InterfaceSegregationPrinciple\obj\Debug\4.InterfaceSegregationPrinciple.exe
+D:\WorkSpace\Net\jenkins\server\4.InterfaceSegregationPrinciple\obj\Debug\4.InterfaceSegregationPrinciple.pdb
+D:\WorkSpace\Net\jenkins\server\4.InterfaceSegregationPrinciple\bin\Debug\4.InterfaceSegregationPrinciple.exe
+D:\WorkSpace\Net\jenkins\server\4.InterfaceSegregationPrinciple\bin\Debug\4.InterfaceSegregationPrinciple.pdb
+D:\WorkSpace\Net\jenkins\server\4.InterfaceSegregationPrinciple\obj\Debug\4.InterfaceSegregationPrinciple.csprojResolveAssemblyReference.cache

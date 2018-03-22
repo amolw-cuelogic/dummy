@@ -1,0 +1,9 @@
+E:\IT\GitHub\Cuelogic\SOLID.Principles\1.SingleResponsibilityPrinciple\bin\Debug\1.SingleResponsibilityPrinciple.exe
+E:\IT\GitHub\Cuelogic\SOLID.Principles\1.SingleResponsibilityPrinciple\bin\Debug\1.SingleResponsibilityPrinciple.pdb
+E:\IT\GitHub\Cuelogic\SOLID.Principles\1.SingleResponsibilityPrinciple\obj\Debug\1.SingleResponsibilityPrinciple.exe
+E:\IT\GitHub\Cuelogic\SOLID.Principles\1.SingleResponsibilityPrinciple\obj\Debug\1.SingleResponsibilityPrinciple.pdb
+D:\WorkSpace\Net\jenkins\server\1.SingleResponsibilityPrinciple\bin\Debug\1.SingleResponsibilityPrinciple.exe
+D:\WorkSpace\Net\jenkins\server\1.SingleResponsibilityPrinciple\bin\Debug\1.SingleResponsibilityPrinciple.pdb
+D:\WorkSpace\Net\jenkins\server\1.SingleResponsibilityPrinciple\obj\Debug\1.SingleResponsibilityPrinciple.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Net\jenkins\server\1.SingleResponsibilityPrinciple\obj\Debug\1.SingleResponsibilityPrinciple.exe
+D:\WorkSpace\Net\jenkins\server\1.SingleResponsibilityPrinciple\obj\Debug\1.SingleResponsibilityPrinciple.pdb
